@@ -1,5 +1,5 @@
 {
-  "name": "driver.js",
+  "name": "@grant/driver.js",
   "private": false,
   "version": "1.2.1",
   "main": "./dist/driver.js.cjs",
